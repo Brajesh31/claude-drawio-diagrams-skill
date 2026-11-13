@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+<title id="title">Draw.io diagram workflow</title>
+<desc id="desc">Plan the diagram, edit native XML, validate structure, export a preview, and review the result.</desc>
+<rect width="900" height="260" rx="18" fill="#f5f8fb"/>
+<text x="450" y="42" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#17324d">Reliable diagram workflow</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+  <g fill="#24445f">
+    <rect x="25" y="92" width="145" height="86" rx="12"/>
+    <rect x="205" y="92" width="145" height="86" rx="12"/>
+    <rect x="385" y="92" width="145" height="86" rx="12"/>
+    <rect x="565" y="92" width="145" height="86" rx="12"/>
+    <rect x="745" y="92" width="130" height="86" rx="12"/>
+  </g>
+  <g fill="#fff" font-size="16">
+    <text x="97" y="142">Plan</text>
+    <text x="277" y="132">Edit</text><text x="277" y="153">.drawio</text>
+    <text x="457" y="142">Validate</text>
+    <text x="637" y="132">Export</text><text x="637" y="153">preview</text>
+    <text x="810" y="132">Visual</text><text x="810" y="153">review</text>
+  </g>
+  <g stroke="#7790a5" stroke-width="3" fill="none">
+    <path d="M170 135h35m-9-8 9 8-9 8M350 135h35m-9-8 9 8-9 8M530 135h35m-9-8 9 8-9 8M710 135h35m-9-8 9 8-9 8"/>
+  </g>
+</g>
+<text x="450" y="220" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#425d73">Keep the editable source. Verify the rendered result.</text>
+</svg>
